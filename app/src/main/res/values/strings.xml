@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView_update_2</string>
+    <string name="list_item">list item:</string>
+    <string name="rv_title">My Recycler View </string>
+    <string name="Del">Del</string>
+    <string name="nbItems">%s items</string>
+    <string name="fab_content_description">fab</string>
+</resources>
